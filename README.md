@@ -1,6 +1,6 @@
 # Hej
 
-My name is Kristofer Ranström. I'm from Sweden 🇸🇪 living in North Carolina 🇺🇸 .
+My name is Kristofer Ranström. I'm from Sweden 🇸🇪 .
 
 I work with Enterprise Architecture 🏛️ , DevOps 🔄 , Business Intelligence 📊 and development 🌱.
 
